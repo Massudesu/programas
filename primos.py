@@ -3,7 +3,7 @@
 #n=numero
 #p=primo
 
-i = 1  
+i = 2
 f = int(input("Digite ate qual numero quer saber se é primo: "))
 
 for n in range(i, f + 1):
@@ -14,4 +14,4 @@ for n in range(i, f + 1):
                 p = False
                 break
         if p:
-            print(n) 
+            print(str(n) + " É primo") 
