@@ -15,7 +15,6 @@ trd = 0
 rr = 0
 trr = float
 
-
 for i in range(n):
     print(f"Rota {i+1}:")
     t = int(input("Quantos trechos nesta rota? "))
