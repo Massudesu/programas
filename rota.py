@@ -8,11 +8,13 @@
 #d = distancia
 #vm = velocidade media
 #tr = tempo da rota
+#mp = media podeirada
+#vmp = velocidade media pondeirada
 n = int(input("Quantas rotas?  "))
 
 rd = 0
 trd = float('inf')
-rr = 0
+#rr = 0
 trr = float('inf')
 mp = []
 
